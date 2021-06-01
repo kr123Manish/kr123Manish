@@ -14,12 +14,16 @@
 - 📫 How to reach me **manishpatel.ashish@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-<!-- <a href="https://stackoverflow.com/users/14884965" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/stack-overflow.svg" alt="14884965" height="30" width="40" /></a> -->
+<p float="left">
 
-<!--   <a href="https://fb.com/manish kumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/facebook.svg" alt="manish kumar" height="30" width="40" /></a> -->
+<a href="https://www.hackerrank.com/manish_kr8" target="blank">
+<img src="https://github.com/kr123Manish/ComputerGraphics_with_openGL/blob/main/Programs/images/hk.png" width="4%"/></img>
+</a>
 
-  <a href="https://www.hackerrank.com/manish_kr8" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="manish_kr8" height="30" width="40" /></a>
+<a href="https://fb.com/manish kumar" target="blank">
+<img src="https://github.com/kr123Manish/ComputerGraphics_with_openGL/blob/main/Programs/images/fb.png" width="4.5%"/></img>
+</a>
+<!-- <a href="https://stackoverflow.com/users/14884965" target="blank"></a> -->
 </p>
 
 
