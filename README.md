@@ -1,9 +1,5 @@
 <h1 align="center">Hi 👋, I'm Manish</h1>
-<h3 align="center">A passionate full stack developer from India</h3>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kr123manish&label=Profile%20views&color=0e75b6&style=flat" alt="kr123manish" /> </p>
-
-- 🔭 I’m currently working on **smalltalk**
 
 - 🌱 I’m currently learning **full stack web development skills**
 
@@ -17,12 +13,17 @@
 <p float="left">
 
 <a href="https://www.hackerrank.com/manish_kr8" target="blank">
-<img src="https://github.com/kr123Manish/ComputerGraphics_with_openGL/blob/main/Programs/images/hk.png" width="4%"/></img>
+<img src="https://github.com/kr123Manish/ComputerGraphics_with_openGL/blob/main/Programs/images/hk.png" height="37" width="36"/></img>
 </a>
 
 <a href="https://fb.com/manish kumar" target="blank">
-<img src="https://github.com/kr123Manish/ComputerGraphics_with_openGL/blob/main/Programs/images/fb.png" width="4.5%"/></img>
+<img src="https://github.com/kr123Manish/ComputerGraphics_with_openGL/blob/main/Programs/images/fb.png" width="40"/></img>
 </a>
+<a href="https://www.instagram.com/manish_k512/" target="blank">
+<img src="https://github.com/kr123Manish/ComputerGraphics_with_openGL/blob/main/Programs/images/insta.jpg" width="40"/></img>
+</a>
+
+
 <!-- <a href="https://stackoverflow.com/users/14884965" target="blank"></a> -->
 </p>
 
