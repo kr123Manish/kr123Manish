@@ -25,6 +25,9 @@
 <a href="https://www.linkedin.com/in/manish-kumar-patel-980651219/" target="blank">
 <img src="https://github.com/kr123Manish/ComputerGraphics_with_openGL/blob/main/Programs/images/linked-in-alt.svg" width="30"/></img>
 </a>&nbsp;
+<a href="https://twitter.com/Manish43015893" target="blank">
+<img src="https://github.com/kr123Manish/ComputerGraphics_with_openGL/blob/main/Programs/images/twitter.svg" width="33"/></img>
+</a>&nbsp;
 
 
 <!-- <a href="https://stackoverflow.com/users/14884965" target="blank"></a> -->
