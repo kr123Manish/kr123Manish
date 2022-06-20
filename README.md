@@ -1,8 +1,9 @@
 <h1 align="center">Hi 👋, I'm Manish</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kr123manish&label=Profile%20views&color=0e75b6&style=flat" alt="kr123manish" /> </p>
+
 - 👨‍💻 <a href = 'https://github.com/kr123Manish?tab=repositories'>Click here to view my all projects</a>
 
-- 📫 How to reach me **manishpatel.ashish@gmail.com**
+- 📫 Reach me **manishpatel.ashish@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p float="left">
